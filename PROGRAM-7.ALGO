@@ -1,0 +1,5 @@
+Initialize the variables.
+Take the input from user.
+Ask the input of present year from the user.
+Ask the input of your date of birth from the user.
+Calculate age with help of present year and date of birth using if condition.
