@@ -1,0 +1,3 @@
+Initialize the variables.
+The hex value as a input and right shift bit value also as input.
+Print the value after doing the hex right shift.
