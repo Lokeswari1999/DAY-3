@@ -1,0 +1,3 @@
+Initialize the variables with the given hex value.
+Right shifting the given value by 3 bits.
+Print the shifted value.
